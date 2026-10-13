@@ -37,7 +37,8 @@
 ### 📊 Minhas Estatísticas no GitHub
 
 <p align="center">
-  [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=CanutoV&langs_count=5&theme=tokyonight)](https://github-stats-extended.vercel.app/api/top-langs?username=CanutoV&langs_count=5&theme=tokyonight)
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=CanutoV&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+  <img height="160" src="https://github-stats-extended.vercel.app/api/top-langs?username=CanutoV&langs_count=5&theme=tokyonight" />
 </p>
 
 ---
