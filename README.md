@@ -47,7 +47,7 @@
 
 <p align="left">
   
-  <img height="160" src="https://github-stats-extended.vercel.app/api/top-langs?username=CanutoV&langs_count=5&theme=tokyonight" />
+  <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs?username=CanutoV&langs_count=5&theme=tokyonight" />
 </p>
 
 ---
