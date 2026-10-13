@@ -6,7 +6,7 @@
 
 ### 🚀 Sobre Mim
 
-- 🎓 Graduando em Sistemas de Informação (**CEDERJ**).
+- 🎓 Graduando em Sistemas de Informação (**UFF**).
 - 🎮 Desenvolvendo projetos e protótipos de jogos com **Lua** e **LÖVE Framework**.
 - 🛡️ Aprofundando estudos em **Cibersegurança e Redes**
 - 🐧 Usuário e entusiasta de **Linux**
