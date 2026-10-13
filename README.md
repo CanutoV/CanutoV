@@ -1,16 +1,20 @@
 # Hi there, I'm Vini 👋
 
-🎓 **Sistemas de Informação** | 💻 **Desenvolvimento Web & Game Dev** | 🛡️ **Cybersecurity & Networking Enthusiast**
+🎓 **Sistemas de Computação** | 💻 **Desenvolvimento** | 🛡️ **Cybersecurity & Networking Enthusiast**
 
 ---
 
 ### 🚀 Sobre Mim
 
 - 🎓 Graduando em Sistemas de Computação (**UFF**).
-- 🎮 Desenvolvendo projetos e protótipos de jogos com **Lua** e **LÖVE Framework**.
-- 🛡️ Aprofundando estudos em **Cibersegurança e Redes**
-- 🐧 Usuário e entusiasta de **Linux**
-
+- 💻 Desenvolvendo projetos Web com **Python**, **JavaScript**, **HTML5/CSS3** e integração com **Supabase**.
+- 🛡️ Especializando em **Cibersegurança & Redes** (Bootcamp J&J Aceleração):
+  - Análise de tráfego de redes e protocolos (**Wireshark**, TCP/IP).
+  - Segurança em Nuvem (**AWS/Azure**) e Gestão de Identidades (**IAM**).
+  - Desenvolvimento Seguro (**OWASP Top 10** e boas práticas de SDLC).
+  - Segurança Aplicada a **Inteligência Artificial** (mitigação de Prompt Injection e riscos em LLMs).
+- 🎮 Criando projetos e protótipos de jogos 2D com **Lua** e **LÖVE Framework**.
+- 🐧 Usuário e entusiasta de **Linux**.
 ---
 
 ### 🧰 Tech Stack & Ferramentas
