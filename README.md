@@ -46,8 +46,7 @@
 ### 📊 Minhas Estatísticas no GitHub
 
 <p align="left">
-  
-  <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs?username=CanutoV&langs_count=5&theme=tokyonight" />
+  ![Top Languages](https://readme-stats-github.pages.dev/api/top-langs?username=canutov&theme=dark)
 </p>
 
 ---
