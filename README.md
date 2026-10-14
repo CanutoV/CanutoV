@@ -46,10 +46,13 @@
 ### 📊 Minhas Estatísticas no GitHub
 
 <p align="left">
-  ![Top Languages](https://readme-stats-github.pages.dev/api/top-langs?username=canutov&theme=dark)
+  <a href="https://www.readmecodegen.com/custom-github-card-generator">
+    <img src="https://www.readmecodegen.com/api/github-stats/svg?username=canutov&theme=tokyonight" alt="GitHub Stats" />
+  </a>
+  <a href="https://www.readmecodegen.com/custom-github-card-generator">
+    <img src="https://www.readmecodegen.com/api/github-stats/svg?username=canutov&theme=tokyonight&cardType=langs" alt="GitHub Stats" />
+  </a>
 </p>
-
----
 
 ### 📬 Onde me encontrar
 
